@@ -25,7 +25,7 @@ The application uses a mocked API during testing.
 
 ---
 
-# 🎯 Learning Goals
+# Learning Goals
 
 This project should demonstrate that you understand:
 
