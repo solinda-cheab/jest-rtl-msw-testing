@@ -1,4 +1,4 @@
-# 🧪 Job Application Tracker
+# Job Application Tracker
 
 A small React + TypeScript application built as a final practical project for learning and demonstrating professional frontend testing with **Jest, React Testing Library, and Mock Service Worker (MSW)**.
 
@@ -6,7 +6,7 @@ The goal of this project is not to build a large production application. The goa
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The Job Application Tracker allows users to manage and track their job applications.
 
