@@ -55,7 +55,7 @@ This project should demonstrate that you understand:
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Frontend
 
