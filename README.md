@@ -72,7 +72,7 @@ This project should demonstrate that you understand:
 
 ---
 
-# 📂 Suggested Project Structure
+# Suggested Project Structure
 
 ```text
 job-application-tracker/
